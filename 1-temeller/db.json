@@ -1,0 +1,11 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "text": "redux",
+            "is_done": true,
+            "created_at": "07.07.2024"
+
+        }
+    ]
+}
